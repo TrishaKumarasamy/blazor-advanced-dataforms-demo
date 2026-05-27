@@ -1,6 +1,6 @@
 # Blazor Advanced DataForms Demo
 
-A comprehensive sample application demonstrating advanced form handling with **Blazor DataForm** component in a .NET 8 web application. This project showcases best practices for building complex, user-friendly forms with validation, conditional fields, and responsive UI.
+A comprehensive sample application demonstrating advanced form handling with **[Blazor DataForm](https://www.syncfusion.com/blazor-components/blazor-data-form)** component in a .NET 8 web application. This project showcases best practices for building complex, user-friendly forms with validation, conditional fields, and responsive UI.
 
 ## Overview
 
@@ -55,8 +55,9 @@ dotnet run
 ```
 ## References
 
-- [Blazor DataForm Documentation](https://blazor.syncfusion.com/documentation/data-form/getting-started-with-server-app)
-- [Blazor Server Documentation](https://learn.microsoft.com/en-us/aspnet/core/blazor)
-- [ASP.NET Core 8 Documentation](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8)
-- [Bootstrap 5 Documentation](https://getbootstrap.com/docs/5.0/)
+- [Blazor Documentation](https://blazor.syncfusion.com/documentation/introduction)
+- [Blazor DataForm Documentation](https://blazor.syncfusion.com/documentation/data-form/getting-started-with-web-app)
+- [Online DataForm Demo](https://blazor.syncfusion.com/demos/data-form/default-functionalities?theme=fluent2)
+
+
 
